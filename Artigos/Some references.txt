@@ -1,0 +1,6 @@
+- International Classification of Diseases (ICD-10)
+- Institute for Health Metrics and Evaluation (IHME)
+- World Health Organization (WHO)
+    - 1 in 13 globally suffers from anxiety
+
+## 322 million people worldwide live with depression. ##

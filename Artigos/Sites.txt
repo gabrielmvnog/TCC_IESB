@@ -1,0 +1,21 @@
+## Medium
+
+- A machine learning approach for the detection of depression and mental illness in Twitter: https://medium.com/datadriveninvestor/a-machine-learning-approach-for-detection-of-depression-and-mental-illness-in-twitter-3f3a32a4df60
+
+- How Twitter Knows When You’re Depressed: http://time.com/1915/how-twitter-knows-when-youre-depressed/
+
+- What To Do If You See Someone Posting Suicidal Thoughts On Social Media, According To Experts : https://www.bustle.com/p/what-to-do-if-you-see-someone-posting-suicidal-thoughts-on-social-media-according-to-experts-15534907
+
+- Web Scraping Using Selenium — Python, Atindra Bandi: https://towardsdatascience.com/web-scraping-using-selenium-python-8a60f4cf40ab
+
+## Depression in social media
+
+- Social Media Use Associated With Depression Among U.S. Young Adults: https://www.upmc.com/media/news/lin-primack-sm-depression
+
+## Crawler
+
+- Making Web Crawlers Using Scrapy for Python - Hafsa Jabeen (Datacamp): https://www.datacamp.com/community/tutorials/making-web-crawlers-scrapy-python
+
+## Depression
+
+- https://www.mayoclinic.org/diseases-conditions/depression/diagnosis-treatment/drc-20356013
