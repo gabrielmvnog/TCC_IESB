@@ -1,0 +1,32 @@
+Probabilidade do usuário estar tendendo ao suicídio.
+---
+tags:
+  - Probabilidade
+parameters:
+  - name: body
+    in: body
+    required: true
+    schema:
+      required:
+        - base64
+      properties:
+        batch:
+          type: list
+          description: Conjunto de frases de um usuário.
+responses:
+  200:
+    description: Probabilidade de tendência suicida de um usuário.
+    examples:
+      resposta: {
+        message: "PROBABILITY_SUCCESS",
+        result: {
+            porcentage:  0.6666666666666666,
+            label: no_suicidal_proba
+          }
+        }
+  500:
+    description: Erro no json enviado
+    examples:
+      resposta: {
+        mensagem: "PARAMETERS_ERROR"
+      }

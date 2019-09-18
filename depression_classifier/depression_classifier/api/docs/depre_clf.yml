@@ -1,0 +1,33 @@
+Classificação de frase depressiva.
+---
+tags:
+  - Classificação
+parameters:
+  - name: body
+    in: body
+    required: true
+    schema:
+      required:
+        - base64
+      properties:
+        sentence:
+          type: string
+          description: Uma frase qualquer.
+responses:
+  200:
+    description: Classificação de frase suicida.
+    examples:
+      resposta: {
+        sentence: "Hoje eu acordei feliz",
+        message: "CLASSIFICATION_SUCCESS",
+        result: {
+            porcentage: 0.906524647642519,
+            label: "not_depression"
+          }
+        }
+  500:
+    description: Erro no json enviado
+    examples:
+      resposta: {
+        mensagem: "PARAMETERS_ERROR"
+      }
