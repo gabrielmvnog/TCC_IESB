@@ -6,13 +6,25 @@ Home-page: UNKNOWN
 Author: Gabriel Nogueira
 Author-email: gabrielmvnogueira@gmail.com.br
 License: COPYRIGHT
-Description: UNKNOWN
+Description: ## Depression Classifier
+        
+        A simple algorithm to detect depression and show a possible tendency to suicide in batch of texts.
+        
+        
+        
+        Authors: Gabriel Nogueira
+        
+        Email: gabrielmvnogueira@gmail.com
+        
+        
+        
+        TCC IESB 2019
 Platform: UNKNOWN
 Classifier: Intended Audience :: Information Technology
 Classifier: Natural Language :: English
 Classifier: Operating System :: POSIX :: Linux
 Classifier: Programming Language :: Python :: 3.6
 Requires-Python: >=3.6
-Provides-Extra: unit
 Provides-Extra: integration
+Provides-Extra: unit
 Provides-Extra: dev
